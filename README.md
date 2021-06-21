@@ -1,4 +1,4 @@
-# C-implementation-of-mean-median-and-mode
+# mean-median-and-mode-calculator-using-C
 **Input format**
 First input number of test cases t.
 Next line will contain t integers.
